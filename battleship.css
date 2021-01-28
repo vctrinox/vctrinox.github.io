@@ -7,7 +7,7 @@ body {
   width: 1000px;
   height: 700px;
   margin: auto;
-  background-image: url("../imagenes/radar.jpg");
+  background-image: url("radar.jpg");
   background-repeat: no-repeat;
   background-size: 1024px;
 }
@@ -45,8 +45,8 @@ height: 55px;
 }
 
 .hit {
-   background: url("../imagenes/ship.png") no-repeat center center;
+   background: url("ship.png") no-repeat center center;
 }
 .miss {
-   background: url("../imagenes/miss.png") no-repeat center center;
+   background: url("miss.png") no-repeat center center;
 }
